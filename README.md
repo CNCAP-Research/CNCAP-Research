@@ -1,6 +1,25 @@
-# Centre for Nature Conservation and Applied Peace (CNCAP)
 
-### Research | Education | Technology | Sustainability
+<p align="center">
+  <img src="./cncap-logo.png" alt="CNCAP Logo" width="220">
+</p>
+
+<h1 align="center">
+  Centre for Nature Conservation and Applied Peace
+</h1>
+
+<h3 align="center">
+  CNCAP
+</h3>
+
+<p align="center">
+  Research | Education | Technology | Sustainability | Peace
+</p>
+
+<p align="center">
+  <i>Advancing science, conserving nature and promoting peaceful coexistence.</i>
+</p>
+
+<hr>
 
 Welcome to the Centre for Nature Conservation and Applied Peace (CNCAP), an independent research and educational initiative based in Australia and Viet Nam.
 
