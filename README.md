@@ -2,7 +2,7 @@
 
 ### Research | Education | Technology | Sustainability
 
-Welcome to the Centre for Nature Conservation and Applied Peace (CNCAP), an independent research and educational initiative based in Australia.
+Welcome to the Centre for Nature Conservation and Applied Peace (CNCAP), an independent research and educational initiative based in Australia and Viet Nam.
 
 CNCAP aims to advance nature conservation, environmental sustainability and peaceful coexistence between people and nature through scientific research, geospatial technology, open education, and interdisciplinary collaboration.
 
