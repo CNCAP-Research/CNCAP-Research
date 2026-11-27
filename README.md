@@ -21,7 +21,7 @@
 
 <hr>
 
-Welcome to the Centre for Nature Conservation and Applied Peace (CNCAP), an independent research and educational initiative based in Australia and Viet Nam.
+Welcome to the Centre for Nature Conservation and Applied Peace (CNCAP), an independent, founder-led, and non-commercial research and educational initiative based in Australia and Viet Nam.
 
 CNCAP aims to advance nature conservation, environmental sustainability and peaceful coexistence between people and nature through scientific research, geospatial technology, open education, and interdisciplinary collaboration.
 
@@ -89,13 +89,11 @@ Future video tutorials will be accompanied by source code, documentation and sup
 
 PhD in Geospatial Sciences, Monash University, Australia.
 
-Research interests include remote sensing, GIS, Earth observation, coastal ecosystems, spatial modelling, GeoAI, and environmental monitoring.
-
 Recipient of the 2025 Esri Australia Young Scholar Award.
 
 ## Collaboration
 
-CNCAP welcomes opportunities for collaboration with researchers, educators, students, practitioners and institutions interested in environmental science, geospatial technology, nature conservation, and sustainable development.
+CNCAP welcomes opportunities for collaboration with researchers, educators, students, practitioners, and institutions interested in environmental science, geospatial technology, nature conservation, and sustainable development.
 
 ## Connect with Us
 
